@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Vinam09/base-apparel-coming-soon-master)
-- Live Site URL: [Add live site URL here](https://vinam09.github.io/base-apparel-coming-soon-master/)
+- Live Site URL: [Live Website](https://vinam09.github.io/base-apparel-coming-soon-master/)
 
 ## My process
 
